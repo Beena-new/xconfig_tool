@@ -1,0 +1,4 @@
+ resources/
+*.log 
+build/
+IConfigToolConstents.java
